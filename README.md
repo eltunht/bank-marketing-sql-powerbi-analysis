@@ -43,8 +43,8 @@ Macroeconomic correlation — Euribor rate (r ≈ -0.31) and employment variatio
 How to Reproduce
 Run the SQL scripts in sql/ in numeric order against SQL Server 2022 (update the CSV path in 02_import_data.sql to match your local file location)
 Open powerbi/bank_marketing_dashboard.pbix in Power BI Desktop
-
 Contact
+
 Eltun Məmiyev LinkedIn
 Point the data source to your own BankMarketingDB instance (Home → Transform Data → Data source settings)
 Refresh
